@@ -1,0 +1,147 @@
+
+body {
+  background-color:#ffffff;
+  background-image: url("../Images/gothic_texture_by_ashensorrow.jpg");
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.aboutme {
+  font-family: 'Times New Roman', sans-serif;
+  font-weight: bold;
+ 
+}
+
+
+h1 {
+  color: white;
+  margin: 0%;
+  background-color:rgba(59, 59, 59, 0.404);
+  letter-spacing: 8px;
+
+}
+
+nav.navbar {
+
+  background-color: rgb(190, 190, 190);
+  font-family: 'Times New Roman', sans-serif;
+  font-weight: bold;  
+  padding: 0px;
+  height: 82px;
+  margin-top: -5px;
+
+  
+}
+
+.border-5{
+  border-style:solid;
+  border-width: 5px;
+  padding: 10px;
+  border-color: black;
+  
+  }
+ 
+
+a.nav-link {
+  color: rgb(104, 104, 104);
+}
+
+.jumbotron.jumbotron-fluid {
+  background-color: rgb(190, 190, 190);
+  margin-top: 100px;
+  padding-right: 50px;
+  padding-left: 50px;
+  position: relative;
+}
+
+
+#me {
+  width: 316px;
+  height: 200px;
+  border: 0px;
+  background-color: rgb(190, 190, 190);
+}
+ 
+.navbar-nav {
+  padding: 10px;
+}
+
+.container {
+  font-family: Arial;
+  position: relative;
+}
+.text-block  {
+  background-color: rgba(137, 43, 226, 0.459);
+  height: 100px;
+  
+}
+
+#happy {
+  width: 225px;
+  height: 225px;
+  border: 0px;
+  background-color: rgb(114, 107, 107);
+
+}
+
+.thumbnail {
+  position: relative;
+  margin: 30px;
+}
+
+.caption {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.425);
+  font-family: 'Times New Roman', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  
+}
+
+#footer {
+  background-color: rgb(71, 71, 71);
+  padding: -10px;
+  height: 55px;
+  text-align: center; 
+  
+}
+#ftb {
+  border-top: 5px solid rgb(2, 114, 105);
+  width: 100%;
+  padding: -20px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+
+nav.navbar {
+
+  background-color: rgb(190, 190, 190); 
+  margin: auto;
+}
+
+.jumbotron.jumbotron-fluid {
+ 
+margin-top: 60px;
+
+}
+
+
+
+.thumbnail {
+  margin: 0px;
+  margin-top: 5px;
+}
+
+a.nav-link {
+  color: rgb(255, 255, 255);
+  margin-left: 25px;
+  font-weight: bold;
+}
+nav.navbar {
+margin-top: -5px;
+}
+}
