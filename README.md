@@ -1,7 +1,7 @@
-Homework (Portfolio using Boostrap)
+# Homework (Portfolio using Boostrap)
 Version 2.0
 
 
-##Licence & Agreement
+## `Licence & Agreement
 
 (©) Eric Simmons
