@@ -1,15 +1,27 @@
 # Homework (Portfolio using Boostrap)
 Version 2.0
----
-## Project
 
-1. This project was created using Boostrap
-2. CCs Styles were used to help style bootstrap code
-3. Homework has three seperate pages (About,Portfolio,Contact)
+## Contributors
+@ericenergy
 
----
+## Technology
+- HTML5, CSS, SCSS
+- Bootstrap
+- Javascript (via Bootstrap)
 
+## About
+- Bootstrap-portfolio is an example website made for a homework assignment for Vanderbilt Bootcamp Class. It's my Basic-Portfolio completely rebuilt from the ground-up to use Bootstrap and its JS. This makes it far more responsive and easily read on smaller viewports. 
 
-## Licence & Agreement
+## License
+- Open-source, Unlicense
 
-(©) Eric Simmons
+## How to use this code
+- Edit using any studio of your choice. Page is also deployed to git pages and freely able to be browsed.
+
+## Contribution Guidelines
+  This was built for a homework assignment and as such will likely not be edited later, but comments, critique, and suggestions are always welcome, for use in future work!
+  
+## Contact
+
+- e-mail: ericnrgnash@gmail.com
+- LinkedIn: https://www.linkedin.com/in/eric-simmons-8364b25b/
