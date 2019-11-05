@@ -3,9 +3,9 @@ Version 2.0
 ---
 ## Project
 
-+*This project was created using Boostrap
-+*Css Styles were used to help style bootstrap code
-+*Homework has three seperate pages (About,Portfolio,Contact)
+1. This project was created using Boostrap
+2. CCs Styles were used to help style bootstrap code
+3. Homework has three seperate pages (About,Portfolio,Contact)
 
 ---
 
