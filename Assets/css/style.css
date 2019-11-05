@@ -43,6 +43,7 @@ nav.navbar {
 
 a.nav-link {
   color: rgb(104, 104, 104);
+  padding: 5px;
 }
 
 .jumbotron.jumbotron-fluid {
@@ -140,8 +141,17 @@ a.nav-link {
   color: rgb(255, 255, 255);
   margin-left: 25px;
   font-weight: bold;
+  padding: 16px;
 }
 nav.navbar {
 margin-top: -5px;
 }
+
+p {
+
+  font-size: 14px;
+}
+
+
+
 }
