@@ -9,6 +9,10 @@ Version 2.0
 
 ---
 
+<<<<<<< HEAD
 ## Licence & Agreement
+=======
+## `Licence & Agreement
+>>>>>>> cf5a3f131d6cce41d99defe5e9c8047d62379f73
 
 (©) Eric Simmons
