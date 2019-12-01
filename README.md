@@ -1,4 +1,5 @@
 # Homework (Portfolio using Boostrap)
+https://ericenergy.github.io/portfolio_2.0_htmlcssbts/
 Version 2.0
 
 ## Contributors
@@ -10,7 +11,7 @@ Version 2.0
 - Javascript (via Bootstrap)
 
 ## About
-- Bootstrap-portfolio is an example website made for a homework assignment for Vanderbilt Bootcamp Class. It's my Basic-Portfolio completely rebuilt from the ground-up to use Bootstrap and its JS. This makes it far more responsive and easily read on smaller viewports. 
+- THis portfolio is an example website made for a homework assignment for Vanderbilt Bootcamp Class. It's my Basic-Portfolio completely rebuilt from the ground-up using HTML and Bootstrap/CSS This makes it far more responsive and easily read on smaller viewports. 
 
 ## License
 - Open-source, Unlicense
