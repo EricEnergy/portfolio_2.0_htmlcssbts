@@ -137,6 +137,15 @@ a.nav-link {
   color: rgb(0, 0, 0);
 }
 
+
+.blackText {
+  color: rgb(9, 113, 139);
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+
+}
+
 @media screen and (max-width: 768px) {
 
 nav.navbar {
