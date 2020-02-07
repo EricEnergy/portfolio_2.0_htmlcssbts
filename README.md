@@ -1,5 +1,4 @@
 # Homework (Portfolio using Boostrap)
-https://ericenergy.github.io/portfolio_2.0_htmlcssbts/
 Version 2.0
 
 ## Contributors
