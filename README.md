@@ -15,8 +15,6 @@ Version 2.0
 ## License
 - Open-source, Unlicense
 
-## How to use this code
-- Edit using any studio of your choice. Page is also deployed to git pages and freely able to be browsed.
 
 ## Contribution Guidelines
   This was built for a homework assignment and as such will likely not be edited later, but comments, critique, and suggestions are always welcome, for use in future work!
