@@ -11,6 +11,13 @@ body {
  
 }
 
+.textDes {
+  font-size: 15px ;
+  margin-left: 30px;
+  margin-top: -30px;
+
+}
+
 
 h1 {
   color: white;
@@ -20,6 +27,7 @@ h1 {
 
 }
 
+
 nav.navbar {
 
   background-color: rgb(190, 190, 190);
@@ -28,11 +36,7 @@ nav.navbar {
   padding: 0px;
   height: 82px;
   margin-top: -5px;
-
-  
 }
-
-
 
 .border-5{
   border-style:solid;
@@ -60,6 +64,7 @@ a.nav-link {
 
 
 #me {
+  position: relative;
   width: 316px;
   height: 200px;
   border: 0px;
@@ -89,20 +94,15 @@ a.nav-link {
 }
 
 .thumbnail {
-  position: relative;
+  position: static;
   margin: 30px;
 }
 
 .caption {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  width: 100%;
   background-color: rgba(255, 255, 255, 0.425);
   font-family: 'Times New Roman', sans-serif;
   font-weight: bold;
   font-size: 24px;
-  
 }
 
 #footer {
